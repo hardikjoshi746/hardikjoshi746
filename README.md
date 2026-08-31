@@ -40,6 +40,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.simpleicons.org/langchain" style="display: inline-block;"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.simpleicons.org/openai/000000" style="display: inline-block;"><img src="https://cdn.simpleicons.org/openai/000000" alt="openai" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.simpleicons.org/pinecone" style="display: inline-block;"><img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="42" height="42" /></a>
 </p>
 <h2>⚡️ Where to find me</h2>
 <p>
