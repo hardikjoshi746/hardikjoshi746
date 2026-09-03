@@ -41,8 +41,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.simpleicons.org/langchain" style="display: inline-block;"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.simpleicons.org/openai/000000" style="display: inline-block;"><img src="https://cdn.simpleicons.org/openai/000000" alt="openai" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.simpleicons.org/pinecone" style="display: inline-block;"><img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="42" height="42" /></a>
 </p>
 <h2>⚡️ Where to find me</h2>
@@ -50,5 +48,4 @@
 <a target="_blank" href="https://www.linkedin.com/in/hardik-joshi-7a9382196/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://hardikjoshiportfolio.framer.website/" style="display: inline-block;"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=framer&logoColor=white" alt="portfolio" /></a>
 </p>
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikjoshi746&show_icons=true&locale=en&layout=compact&theme=default" alt="hardikjoshi746" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikjoshi746" alt="hardikjoshi746" /></a></p> -->
+
