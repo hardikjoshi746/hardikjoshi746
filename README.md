@@ -1,5 +1,5 @@
 <h1>Hi 👋, My name is Hardik Joshi</h1>
-<p>I am a Software Engineer specializing in <strong>Agentic AI systems</strong>, currently building at AceLab Inc. and co-founded <strong>Zeus AI</strong>, an AI-powered automation platform for Salesforce users. I hold an M.S. in Information Systems from Northeastern University with a strong foundation in full-stack development, multi-agent orchestration, and cloud infrastructure.</p>
+<p>I am a Software Engineer specializing in <strong>Agentic AI systems</strong>, I co-founded <strong>Zeus AI</strong>, an AI-powered automation platform for Salesforce users. I hold an M.S. in Information Systems from Northeastern University with a strong foundation in full-stack development, multi-agent orchestration, and cloud infrastructure.</p>
 <p>My experience spans designing RAG pipelines, vector database retrieval, event bus architectures, and agentic CI/CD workflows. I've worked across companies like Ipser Labs and Virim Infotech, building scalable React and Spring Boot applications, and served as a Teaching Assistant for graduate-level Software Engineering for 3 semesters.</p>
 <p>I thrive at the intersection of AI and engineering — whether it's reducing token costs 4x, cutting pipeline execution time, or deploying agents that save users 10+ hours a week.</p>
 
